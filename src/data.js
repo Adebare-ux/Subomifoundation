@@ -32,12 +32,12 @@ export const PROGRAMS = [
 ];
 
 export const GALLERY_ITEMS = [
-  { img: "/public/photo2.jpg", fallback: "linear-gradient(135deg,#1b6b5a,#0a3d3a)", icon: "🎒", label: "Back-to-School 2024" },
-  { img: "/public/photo5.jpg", fallback: "linear-gradient(135deg,#c9972c,#8a5e10)", icon: "🏫", label: "School Renovation" },
-  { img: "/public/photo1.jpg", fallback: "linear-gradient(135deg,#2d7a6e,#1a4a45)", icon: "🎓", label: "Scholarship Ceremony" },
-  { img: "/public/photo4.jpg", fallback: "linear-gradient(135deg,#0a3d3a,#1b6b5a)", icon: "🩺", label: "Jamb Scholarship" },
-  { img: "/public/photo3.jpg", fallback: "linear-gradient(135deg,#8a5e10,#c9972c)", icon: "🛠️", label: "Quiz Competition" },
-  { img: "/public/photo6.jpg", fallback: "linear-gradient(135deg,#1a4a45,#2d7a6e)", icon: "🍽️", label: "Health Outreach" },
+  { img: "/images/photo2.jpg", fallback: "linear-gradient(135deg,#1b6b5a,#0a3d3a)", icon: "🎒", label: "Back-to-School 2024" },
+  { img: "/images/photo5.jpg", fallback: "linear-gradient(135deg,#c9972c,#8a5e10)", icon: "🏫", label: "School Renovation" },
+  { img: "/images/photo1.jpg", fallback: "linear-gradient(135deg,#2d7a6e,#1a4a45)", icon: "🎓", label: "Scholarship Ceremony" },
+  { img: "/images/photo4.jpg", fallback: "linear-gradient(135deg,#0a3d3a,#1b6b5a)", icon: "🩺", label: "Jamb Scholarship" },
+  { img: "/images/photo3.jpg", fallback: "linear-gradient(135deg,#8a5e10,#c9972c)", icon: "🛠️", label: "Quiz Competition" },
+  { img: "/images/photo6.jpg", fallback: "linear-gradient(135deg,#1a4a45,#2d7a6e)", icon: "🍽️", label: "Health Outreach" },
 ];
 export const IMPACT_ITEMS = [
   { amount: "₦5,000",   desc: "Provides a full set of textbooks and stationery for one child for the entire school year." },
