@@ -42,10 +42,10 @@ export default function Footer() {
         {/* Bottom */}
         <div className="footer__bottom">
           <p className="footer__copy">
-            © 2025 {SITE.name} · {SITE.location}
+            © 2023 {SITE.name} · {SITE.location}
           </p>
           <div className="footer__socials">
-            {["𝕏", "f", "in", "▶"].map((s) => (
+            {["𝕏", "f", "IN", "T"].map((s) => (
               <a key={s} href="#" className="footer__social-icon">
                 {s}
               </a>

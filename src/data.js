@@ -3,17 +3,17 @@ export const SITE = {
   name:    "Abubakr Subomi Foundation",
   motto:   "Where Compassion Meets Excellence",
   location: "Iseyin City, Oyo State, Nigeria",
-  founded: "2025",
+  founded: "2023",
   email:   "abubakrsubomifoundation@gmail.com",
-  phone:   "+234 812 604 2190",
+  phone:   "+234 912 554 6419",
   hours:   "Mon – Fri: 9am – 5pm · Sat: 10am – 2pm",
 };
 
 export const STATS = [
   { num: "500+", label: "Children Supported" },
   { num: "2+",  label: "Active Programs" },
-  { num: "1",    label: "Years of Impact" },
-  { num: "3+",  label: "Community Partners" },
+  { num: "3",    label: "Years of Impact" },
+  { num: "2",  label: "Community Partners" },
 ];
 
 export const VALUES = [
@@ -50,8 +50,8 @@ export const IMPACT_ITEMS = [
 
 export const BANK_ACCOUNTS = [
   { bank: "First Bank of Nigeria", account: "2046182629", name: "KOLAWOLE ABUBARY" },
-  { bank: "Zenith Bank",           account: "2098765432", name: "Abubakr Subomi Foundation" },
-  { bank: "Access Bank",           account: "0011223344", name: "Abubakr Subomi Foundation" },
+  { bank: "United Bank of Africa",           account: "2066807300", name: "KOLAWOLE ABUBARY" },
+  { bank: "OPAY",           account: "9123346419", name: "KOLAWOLE ABUBARY" },
 ];
 
 export const CONTACT_INFO = [
@@ -62,10 +62,10 @@ export const CONTACT_INFO = [
 ];
 
 export const SOCIAL_LINKS = [
-  { label: "𝕏 Twitter",  href: "#" },
+  { label: "𝕏 Twitter",  href: "https://x.com/abubakr_subomi?s=21" },
   { label: "Facebook",   href: "https://www.facebook.com/share/1DmLQPshNs/?mibextid=wwXIfr" },
-  { label: "Instagram",  href: "@iconi_subomi" },
-  { label: "YouTube",    href: "#" },
+  { label: "Instagram",  href: "https://www.instagram.com/abubakr_subomi?igsh=MTgxdWRldGsybHZ2Yw%3D%3D&utm_source=qr" },
+  { label: "TikTok",    href: "https://www.tiktok.com/@abubakr_subomi?_r=1&_t=ZS-94Pes25H6KT" },
 ];
 
 export const FOOTER_COLS = [
